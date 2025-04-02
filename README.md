@@ -27,7 +27,7 @@ Here are some of the resources I am using to learn Rust:
 1. Install Rust using [rustup](https://rustup.rs/)
 2. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/rust-learning.git
+   git clone https://github.com/Adnan-Malik-26/rust-learning.git
    ```
 3. Navigate to a project directory and run:
    ```sh
