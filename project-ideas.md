@@ -12,6 +12,7 @@
 - Web Scraper
 - Blockchain Implementation
 - Phone Camera As webcam app
+- Ray Tracing Simulator
 
 ## Advanced Projects
 - Distributed Key-Value Store
